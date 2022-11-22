@@ -1,0 +1,20 @@
+.TodoList {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  padding: 0px 200px;
+}
+.t {
+  width: 20%;
+}
+.button-set {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.list-p {
+  width: 60%;
+}
