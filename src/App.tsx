@@ -79,6 +79,7 @@ const App = () => {
       <h3>A Simple todolist built react hooks & context </h3>
       <div className="input-field">
         <input
+          data-testid="test-app-input"
           className="App-input"
           type="text"
           placeholder="Add your text here..."
